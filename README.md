@@ -114,11 +114,13 @@ Tools and Technologies
 - PostgreSQL, SQL: KPI calculations and cohort retention analysis
 - Power BI, DAX: interactive dashboard and measures
 Repository Structure
+
+```text
 StreamFlix-Content-Analytics-Project/
 │
-├── streamflix_raw_data/          # Original datasets and project documentation
-├── streamflix_cleaned_data/      # Cleaned datasets and data quality reports
-├── charts/                       # 10 exported EDA visualisations
+├── streamflix_raw_data/          
+├── streamflix_cleaned_data/
+├── charts/
 │
 ├── Phase1_DataCleaning_Kajal_Rajak.ipynb
 ├── Phase2_EDA_Kajal_Rajak.ipynb
@@ -126,6 +128,8 @@ StreamFlix-Content-Analytics-Project/
 ├── Phase4_Dashboard_Kajal_Rajak.pbix
 ├── Phase4_Report_Kajal_Rajak.pdf
 └── README.md
+```
+
 Recommendations from the Analysis
 - Investigate churn by plan, country, and subscription tenure to identify subscriber groups needing retention support.
 - Evaluate content performance against licensing and production costs before making investment decisions.
