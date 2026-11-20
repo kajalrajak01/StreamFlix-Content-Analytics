@@ -4,19 +4,18 @@ An end-to-end data analytics project analysing subscriber behaviour, content per
 The project covers the complete analytics workflow: data cleaning → exploratory data analysis → SQL KPI analysis → Power BI dashboard and management reporting.
 ## Project at a Glance
 ### Project Metric	Result
-Subscribers analysed	~15,000
-Content titles	~9,000
-Viewing records	~650,000
-Total watch time	3.33 million hours
-Active subscriber rate	74.66%
-Churn rate	25.34%
-Average completion rate	65.31%
-Monthly recurring revenue (MRR)	$175.87K
-Average title rating	3.55
-Positive review sentiment	68.19%
-Watchlist conversion rate	46.23%
-Original content share of watch hours	27.17%
-
+- Subscribers analysed	~15,000
+- Content titles	~9,000
+- Viewing records	~650,000
+- Total watch time	3.33 million hours
+- Active subscriber rate	74.66%
+- Churn rate	25.34%
+- Average completion rate	65.31%
+- Monthly recurring revenue (MRR)	$175.87K
+- Average title rating	3.55
+- Positive review sentiment	68.19%
+- Watchlist conversion rate	46.23%
+- Original content share of watch hours	27.17%
 
 Figures are taken from the project's Phase 4 Management Summary Report. Approximate counts are marked with ~.
 ## Project Objectives
@@ -45,7 +44,7 @@ Review Sentiment
 - The active subscriber rate is 74.66% and churn rate is 25.34%.
 - Total viewing time is approximately 3.33 million hours.
 - Average completion rate is 65.31%, above the project's 60% target.
-## Content performance
+### Content performance
 The leading genres by watch hours are:
 Genre	Watch Hours
 Drama	0.50M
@@ -64,7 +63,7 @@ Premium	29.61%
 
 
 The largest subscriber markets reported are the United States (3.8K), India (1.9K), United Kingdom (1.3K), South Korea (1.1K), and Japan (0.8K). Monthly recurring revenue is approximately USD 175.87K.
-## Customer experience and content investment
+### Customer experience and content investment
 - Positive review sentiment is 68.19%, with an average rating of 3.55.
 - Watchlist conversion is 46.23%.
 - Original titles contribute 27.17% of total watch hours.
