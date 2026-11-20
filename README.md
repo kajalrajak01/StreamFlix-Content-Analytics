@@ -74,13 +74,13 @@ The largest subscriber markets reported are the United States (3.8K), India (1.9
 
 ---
 
-## Phase 2 — Exploratory Data Analysis
+### Phase 2 — Exploratory Data Analysis
 #### Notebook: Phase2_EDA_Kajal_Rajak.ipynb
 Explored viewing trends, genre performance, content types, country-level viewing, subscriber plans, device usage, subscriber age, completion rates, and review sentiment. Created 10 visualisations using Matplotlib and Seaborn; the exported charts are available in the charts/ folder.
 
 ---
 
-## Phase 3 — SQL KPI Analysis
+### Phase 3 — SQL KPI Analysis
 #### SQL file: Phase3_KPI_Kajal_Rajak.sql
 Used PostgreSQL to create views for 10 business KPIs:
 1. Total Watch Hours
@@ -97,7 +97,7 @@ The phase also includes cohort retention analysis at 3-, 6-, and 12-month interv
 
 ---
 
-## Phase 4 — Power BI Dashboard and Management Report
+### Phase 4 — Power BI Dashboard and Management Report
 #### Power BI file: Phase4_Dashboard_Kajal_Rajak.pbix
 #### Management report: Phase4_Report_Kajal_Rajak.pdf
 ### The Power BI dashboard contains five pages:
@@ -149,28 +149,28 @@ The project includes an interactive Power BI dashboard consisting of five pages,
 StreamFlix-Content-Analytics/
 │
 ├── Phase 1 Data Cleaning/
-│   └── Python Notebook.ipynb
+│   └── Phase1_DataCleaning_Kajal_Rajak.ipynb
 │
 ├── Phase 2 EDA/
 │   ├── EDA Charts/
 │   │   └── 10 PNG Charts
-│   └── Phase 2 EDA Kajal Rajak.ipynb
+│   └── Phase2_EDA_Kajal_Rajak.ipynb
 │
 ├── Phase 3 KPI Calculation/
-│   └── Phase 3 KPI Kajal Rajak.sql
+│   └── Phase3_KPI_Kajal_Rajak.sql
 │
 ├── Phase 4 Dashboard/
 │   ├── Screenshots/
-│   │   ├── catalog and investment.png
+│   │   ├── catalog & investment.png
 │   │   ├── content performance.png
 │   │   ├── engagement overview.png
-│   │   ├── experience and satisfaction.png
+│   │   ├── experience & satisfaction.png
 │   │   └── subscriber insights.png
 │   │
-│   └── Phase 4 Dashboard Kajal Rajak.pbix
+│   └── Phase4_Dashboard_Kajal_Rajak.pbix
 │
 ├── Phase 4 Reports/
-│   └── Report.pdf
+│   └── Phase4_Report_Kajal_Rajak.pdf
 │
 └── README.md
 ```
