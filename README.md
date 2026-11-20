@@ -69,19 +69,19 @@ Customer experience and content investment
 - Watchlist conversion is 46.23%.
 - Original titles contribute 27.17% of total watch hours.
 - Smart TV is the most widely used viewing device.
-Project Workflow
-Phase 1 — Data Cleaning and Quality Checks
-Notebook: Phase1_DataCleaning_Kajal_Rajak.ipynb
+## Project Workflow
+### Phase 1 — Data Cleaning and Quality Checks
+#### Notebook: Phase1_DataCleaning_Kajal_Rajak.ipynb
 - Loaded and profiled six related datasets.
 - Checked missing values, data types, exact duplicates, and primary-key duplicates.
 - Standardised and validated data fields.
 - Performed data quality and relationship checks.
 - Exported cleaned datasets and quality-check reports.
-Phase 2 — Exploratory Data Analysis
-Notebook: Phase2_EDA_Kajal_Rajak.ipynb
+## Phase 2 — Exploratory Data Analysis
+## Notebook: Phase2_EDA_Kajal_Rajak.ipynb
 
 Explored viewing trends, genre performance, content types, country-level viewing, subscriber plans, device usage, subscriber age, completion rates, and review sentiment. Created 10 visualisations using Matplotlib and Seaborn; the exported charts are available in the charts/ folder.
-Phase 3 — SQL KPI Analysis
+## Phase 3 — SQL KPI Analysis
 SQL file: Phase3_KPI_Kajal_Rajak.sql
 
 Used PostgreSQL to create views for 10 business KPIs:
@@ -96,7 +96,7 @@ Used PostgreSQL to create views for 10 business KPIs:
 9. Hit Concentration
 10. Originals Share of Watch Hours
 The phase also includes cohort retention analysis at 3-, 6-, and 12-month intervals.
-Phase 4 — Power BI Dashboard and Management Report
+## Phase 4 — Power BI Dashboard and Management Report
 - Power BI file: Phase4_Dashboard_Kajal_Rajak.pbix
 - Management report: Phase4_Report_Kajal_Rajak.pdf
 The Power BI dashboard contains five pages:
@@ -117,10 +117,6 @@ Repository Structure
 
 ```text
 StreamFlix-Content-Analytics-Project/
-│
-├── streamflix_raw_data/          
-├── streamflix_cleaned_data/
-├── charts/
 │
 ├── Phase1_DataCleaning_Kajal_Rajak.ipynb
 ├── Phase2_EDA_Kajal_Rajak.ipynb
