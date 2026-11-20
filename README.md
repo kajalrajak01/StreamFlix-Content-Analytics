@@ -28,18 +28,8 @@ Figures are taken from the project's Phase 4 Management Summary Report. Approxim
 - Evaluate subscription revenue and subscriber plan distribution.
 - Analyse ratings, review sentiment, and watchlist conversion.
 - Assess the viewing contribution of original content and support content-investment decisions.
-## Visual Highlights
-Monthly Viewing Activity
 
-Monthly Watch-Hours Trend
-
-Genre-wise Watch-Hours Share
-
-Viewing by Content Type
-
-Top Countries by Watch Hours
-
-Review Sentiment
+---
 
 ## Key Business Findings
 ### Subscriber engagement and retention
@@ -118,6 +108,30 @@ The phase also includes cohort retention analysis at 3-, 6-, and 12-month interv
 5. Catalogue & Investment — original versus licensed content, genre-wise viewing efficiency, and upcoming licence expirations.
 A management summary report documents the findings, risks, opportunities, and recommendations.
 
+## Power BI Dashboard Preview
+
+The project includes an interactive Power BI dashboard consisting of five pages, each focusing on a different aspect of StreamFlix's business performance.
+
+### 1. Engagement Overview
+
+![Engagement Overview](Phase%204%20Dashboard/Screenshots/engagement%20overview.png)
+
+### 2. Content Performance
+
+![Content Performance](Phase%204%20Dashboard/Screenshots/content%20performance.png)
+
+### 3. Subscriber Insights
+
+![Subscriber Insights](Phase%204%20Dashboard/Screenshots/subscriber%20insights.png)
+
+### 4. Experience & Satisfaction
+
+![Experience and Satisfaction](Phase%204%20Dashboard/Screenshots/experience%20and%20satisfaction.png)
+
+### 5. Catalogue & Investment
+
+![Catalogue and Investment](Phase%204%20Dashboard/Screenshots/catalog%20and%20investment.png)
+
 ---
 
 ## Tools and Technologies
@@ -132,13 +146,32 @@ A management summary report documents the findings, risks, opportunities, and re
 
 ## Repository Structure
 ```text
-StreamFlix-Content-Analytics-Project/
+StreamFlix-Content-Analytics/
 │
-├── Phase1_DataCleaning_Kajal_Rajak.ipynb
-├── Phase2_EDA_Kajal_Rajak.ipynb
-├── Phase3_KPI_Kajal_Rajak.sql
-├── Phase4_Dashboard_Kajal_Rajak.pbix
-├── Phase4_Report_Kajal_Rajak.pdf
+├── Phase 1 Data Cleaning/
+│   └── Python Notebook.ipynb
+│
+├── Phase 2 EDA/
+│   ├── EDA Charts/
+│   │   └── 10 PNG Charts
+│   └── Phase 2 EDA Kajal Rajak.ipynb
+│
+├── Phase 3 KPI Calculation/
+│   └── Phase 3 KPI Kajal Rajak.sql
+│
+├── Phase 4 Dashboard/
+│   ├── Screenshots/
+│   │   ├── catalog and investment.png
+│   │   ├── content performance.png
+│   │   ├── engagement overview.png
+│   │   ├── experience and satisfaction.png
+│   │   └── subscriber insights.png
+│   │
+│   └── Phase 4 Dashboard Kajal Rajak.pbix
+│
+├── Phase 4 Reports/
+│   └── Report.pdf
+│
 └── README.md
 ```
 ---
@@ -154,5 +187,8 @@ StreamFlix-Content-Analytics-Project/
 
 ## Conclusion
 This project demonstrates an end-to-end approach to transforming raw streaming-platform data into business insights. By combining Python-based data preparation and EDA, PostgreSQL KPI analysis, and Power BI reporting, the project examines subscriber retention, viewing engagement, content performance, customer feedback, and content investment.
+
+---
+
 **Project by:** Kajal Rajak
 **Context: Data Analytics Internship —** Internmo
