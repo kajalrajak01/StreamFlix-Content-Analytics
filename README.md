@@ -114,23 +114,23 @@ The project includes an interactive Power BI dashboard consisting of five pages,
 
 ### 1. Engagement Overview
 
-![Engagement Overview](Phase%204%20Dashboard/Screenshots/engagement%20overview.png)
+![Engagement Overview](Phase_4_Dashboard/Screenshots/Engagement%20Overview.png)
 
 ### 2. Content Performance
 
-![Content Performance](Phase%204%20Dashboard/Screenshots/content%20performance.png)
+![Content Performance](Phase_4_Dashboard/Screenshots/Content%20Performance.png)
 
 ### 3. Subscriber Insights
 
-![Subscriber Insights](Phase%204%20Dashboard/Screenshots/subscriber%20insights.png)
+![Subscriber Insights](Phase_4_Dashboard/Screenshots/Subscriber%20Insights.png)
 
 ### 4. Experience & Satisfaction
 
-![Experience and Satisfaction](Phase%204%20Dashboard/Screenshots/experience%20and%20satisfaction.png)
+![Experience and Satisfaction](Phase_4_Dashboard/Screenshots/Experience%20%26%20Satisfaction.png)
 
 ### 5. Catalogue & Investment
 
-![Catalogue and Investment](Phase%204%20Dashboard/Screenshots/catalog%20and%20investment.png)
+![Catalogue and Investment](Phase_4_Dashboard/Screenshots/Catalogue%20%26%20Investment.png)
 
 ---
 
